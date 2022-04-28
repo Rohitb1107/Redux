@@ -20,6 +20,7 @@ h4 {
   margin-top: 0;
   margin-bottom: 20px;
   font-family: "Josefin Sans", sans-serif;
+  font-size: 35px;
 }
 /* a:link, a:visited {
   transition: color 0.15s ease 0s, border-color 0.15s ease 0s, background-color 0.15s ease 0s;
@@ -41,8 +42,8 @@ h4 {
 .quantity__minus,
 .quantity__plus {
   display: block;
-  width: 32px;
-  height: 33px;
+  width: 52px;
+  height: 43px;
   margin: 0;
   background: #dee0ee;
   text-decoration: none;
@@ -63,7 +64,7 @@ h4 {
 }
 .quantity__input {
   width: 42px;
-  height: 29px;
+  height: 39px;
   margin: 0;
   padding: 0;
   text-align: center;
